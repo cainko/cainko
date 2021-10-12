@@ -1,4 +1,4 @@
-# Korey Cain - Manaro
+# Korey Cain
 
 ## About Me
 I am an electrical engineer that focuses in automation and controls. I have experience in a few different fields, including wireless communications, PLC programming, software development, and data analytics.
