@@ -4,20 +4,19 @@
 I am an electrical engineer that focuses in automation and controls. I have experience in a few different fields, including wireless communications, PLC programming, software development, and data analytics.
 ## Projects
 
-I am currently working on a Discord bot and occasionally will make custom UI packages for classes in World of Warcraft.
+I am currently working on a machine learning project that will maximize the output of specializations in World of Warcraft.
 
-
+- [simc-ml-apl] - Simc APL Optimizations using Machine Learning
 - [Cidbot] - Discord bot
-- [Wago] - Wago.io page
 - [Portfolio] - My portfolio website
 
 
-Thank you for visiting my page. :)
+Thank you for visiting my page.
 
 [//]: # 
 
+   [simc-ml-apl]: <https://github.com/cainko/simc-ml-apl>
    [Cidbot]: <https://github.com/cainko/Cidbot>
-   [Wago]: <https://wago.io/p/Manaro#11413>
    [Portfolio]: <https://koreycain.com>
 
 
